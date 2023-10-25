@@ -1,6 +1,7 @@
 # Tinny's Discord Bot
 
 Hi there! I'm tinny, a small developer working on a free discord bot. 
+The wiki, found [here](https://github.com/TinnyTerr/tinnys-discord-bot/wiki) will contain further information about the commands, our roadmap and more. Have fun! 
 
 ## The Plan
 
