@@ -8,13 +8,7 @@ The wiki, found [here](https://github.com/TinnyTerr/tinnys-discord-bot/wiki) wil
 Currently, the plan is to create a general purpose bot, fully customisable and open to the public. 
 ## Roadmap
 
-- Create message customisation
-
-- Run normal bot for non-code savy users
-
-- Add premium system linked with your servers subscription
-
-- And more!
+- First of all, focus on the logging part of it all, that'll be the main structure at first
 
 
 ## Authors
@@ -35,7 +29,7 @@ Your restrictions, conditions and permissions are below:
 
 Commercial use, Distribution, Modification, Patent use, Private use
 ### Conditions:
-Disclose source, License and copyright notice, Network use is distribution, Same license, State changes
+Disclose source, License and copyright notice, Network use is distribution, Same license, State changes (not required to be public but sent to owners)
 ### Limitations:
 Liability, Warranty
 
